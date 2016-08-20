@@ -17,6 +17,7 @@ public class TestaGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("test my branch");
+        System.out.println("test my branch 2 + web edition");
     }
     
 }
